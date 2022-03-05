@@ -1,41 +1,9 @@
 {
   "jobs": [
     {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "http://gtrklnr.com/",
-        "interval_ms": 1
-      }
-    },
-     {
-      "type": "udp",
-      "args": {
-        "address": "80.87.198.26:53",
-        "interval_ms": 135,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "http://193.228.161.77:80",
-        "interval_ms": 1
-      }
-    },
-    {
       "type": "tcp",
       "args": {
-        "address": "193.228.161.77:21",
-        "interval_ms": 135,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
-      }
-    },
-    {
-      "type": "tcp",
-      "args": {
-        "address": "193.228.161.96:21",
+        "address": "185.170.2.232:443",
         "interval_ms": 135,
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
       }
@@ -44,119 +12,7 @@
       "type": "http",
       "args": {
         "method": "GET",
-        "path": "https://193.228.161.77:443",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "http://lugansk24.gtrklnr.ru/",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "tcp",
-      "args": {
-        "address": "193.228.161.83:21",
-        "interval_ms": 135,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "http://193.228.161.83:80",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "https://193.228.161.83:443",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "http://video.gtrklnr.ru/",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "tcp",
-      "args": {
-        "address": "193.228.161.78:21",
-        "interval_ms": 135,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "http://193.228.161.78:80",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "https://193.228.161.78:443",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "http://news.gtrklnr.ru/",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "tcp",
-      "args": {
-        "address": "193.228.161.92:21",
-        "interval_ms": 135,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "http://193.228.161.92:80",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "https://193.228.161.92:443",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "http://your.gtrklnr.ru/",
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "http://victori.gtrklnr.ru/",
+        "path": "http://185.170.2.232:443",
         "interval_ms": 1
       }
     }
